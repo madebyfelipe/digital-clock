@@ -1,2 +1,3 @@
 # Relógio Digital
-Preview disponível em https://madebyfelipe.github.io/login-page
+Feito com HTML, CSS e JS <br>
+Preview disponível em https://madebyfelipe.github.io/digital-clock
